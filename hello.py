@@ -1,5 +1,5 @@
 print("Hello, GitHub!")
 print("Another line")
 print("Hello, world!")
-x = 5 + 3  
-print(x)
+name = "Aidin"  
+print(f"Hi {name}")
