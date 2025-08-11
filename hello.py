@@ -6,3 +6,5 @@ print("Today is a good day!")
 print(sum(1))
 print("Python is fun!")
 print("Learning GitHub commits.")
+import math  
+print(math.sqrt(16))
