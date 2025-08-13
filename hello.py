@@ -9,3 +9,4 @@ print("Learning GitHub commits.")
 import math  
 print(math.sqrt(16))
 print("10 * 10 =", 10 * 10)
+print("Keep pushing forward!")
