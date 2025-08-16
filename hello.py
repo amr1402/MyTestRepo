@@ -12,3 +12,6 @@ print("10 * 10 =", 10 * 10)
 print("Keep pushing forward!")
 print("Daily coding habits matter.")
 print("Halfway through August.")
+a = 10  
+b = 20  
+print(a + b)
