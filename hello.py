@@ -17,3 +17,4 @@ b = 20
 print(a + b)
 for i in "IDENA": print(i)
 print("Day 16. Stay consistent!")
+print("Automation incoming...")
