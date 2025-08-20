@@ -18,3 +18,5 @@ print(a + b)
 for i in "IDENA": print(i)
 print("Day 16. Stay consistent!")
 print("Automation incoming...")
+message = "GitHub grind!"  
+print(message)
