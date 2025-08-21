@@ -20,3 +20,4 @@ print("Day 16. Stay consistent!")
 print("Automation incoming...")
 message = "GitHub grind!"  
 print(message)
+print("Sleep. Code. Repeat.")
