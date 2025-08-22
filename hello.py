@@ -21,3 +21,19 @@ print("Automation incoming...")
 message = "GitHub grind!"  
 print(message)
 print("Sleep. Code. Repeat.")
+print("One step at a time.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
