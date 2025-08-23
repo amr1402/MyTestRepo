@@ -22,7 +22,7 @@ message = "GitHub grind!"
 print(message)
 print("Sleep. Code. Repeat.")
 print("One step at a time.")
-
+print("Python scripting 101")
 
 
 
