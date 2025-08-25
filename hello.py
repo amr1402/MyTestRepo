@@ -24,7 +24,7 @@ print("Sleep. Code. Repeat.")
 print("One step at a time.")
 print("Python scripting 101")
 print("25% there!")
-
+print("Today's code is working.")
 
 
 
