@@ -26,7 +26,7 @@ print("Python scripting 101")
 print("25% there!")
 print("Today's code is working.")
 print("Trust the process.")
-
+print("August almost over.")
 
 
 
