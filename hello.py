@@ -27,7 +27,7 @@ print("25% there!")
 print("Today's code is working.")
 print("Trust the process.")
 print("August almost over.")
-
+print("Stay sharp, coder.")
 
 
 
