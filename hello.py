@@ -30,7 +30,7 @@ print("August almost over.")
 print("Stay sharp, coder.")
 print("Logic > Syntax")
 print("End of month grind!")
-
+print("September starts strong!")
 
 
 
