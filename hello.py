@@ -33,7 +33,7 @@ print("End of month grind!")
 print("September starts strong!")
 x = [1,2,3]  
 print(len(x))
-
+print("Staying motivated...")
 
 
 
