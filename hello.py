@@ -34,7 +34,7 @@ print("September starts strong!")
 x = [1,2,3]  
 print(len(x))
 print("Staying motivated...")
-
+print("Just keep coding.")
 
 
 
