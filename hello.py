@@ -38,7 +38,8 @@ print("Just keep coding.")
 print("Better than yesterday.")
 print("30 days in! 🎉")
 print("Coding discipline matters.")
-
+a = [5, 10]  
+print(max(a))
 
 
 
