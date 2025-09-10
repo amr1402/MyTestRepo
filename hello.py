@@ -42,7 +42,7 @@ a = [5, 10]
 print(max(a))
 print("Create. Commit. Repeat.")
 print("Every line counts.")
-
+print("Stay consistent.")
 
 
 
