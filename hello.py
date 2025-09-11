@@ -43,7 +43,7 @@ print(max(a))
 print("Create. Commit. Repeat.")
 print("Every line counts.")
 print("Stay consistent.")
-
+print("Coding journey continues.")
 
 
 
