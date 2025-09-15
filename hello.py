@@ -47,6 +47,15 @@ print("Coding journey continues.")
 print("Hello from day 41!")
 print("One day at a time.")
 print("You got this.")
+print("Today’s another opportunity.")
+
+
+
+
+
+
+
+
 
 
 
