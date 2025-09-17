@@ -49,7 +49,7 @@ print("One day at a time.")
 print("You got this.")
 print("Today’s another opportunity.")
 print("Time for some Python.")
-
+print("Steady and strong.")
 
 
 
