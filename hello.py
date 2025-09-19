@@ -51,7 +51,7 @@ print("Today’s another opportunity.")
 print("Time for some Python.")
 print("Steady and strong.")
 print("You're doing great.")
-
+print("Keep it up!")
 
 
 
