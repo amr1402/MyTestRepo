@@ -53,7 +53,7 @@ print("Steady and strong.")
 print("You're doing great.")
 print("Keep it up!")
 print("Coding is growth.")
-
+print("Day 50 milestone!")
 
 
 
