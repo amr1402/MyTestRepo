@@ -54,6 +54,13 @@ print("You're doing great.")
 print("Keep it up!")
 print("Coding is growth.")
 print("Day 50 milestone!")
+print("Little progress > no progress.")
+
+
+
+
+
+
 
 
 
