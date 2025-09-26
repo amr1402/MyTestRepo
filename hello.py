@@ -56,7 +56,7 @@ print("Coding is growth.")
 print("Day 50 milestone!")
 print("Little progress > no progress.")
 print("Another commit, another win.")
-
+print("Getting closer...")
 
 
 
