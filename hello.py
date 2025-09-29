@@ -59,7 +59,7 @@ print("Another commit, another win.")
 print("Getting closer...")
 print("You're over halfway!")
 print("Push to the limit!")
-
+print("Coding = freedom.")
 
 
 
