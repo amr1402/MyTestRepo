@@ -61,7 +61,7 @@ print("You're over halfway!")
 print("Push to the limit!")
 print("Coding = freedom.")
 print("Keep learning!")
-
+print("Focus and code.")
 
 
 
