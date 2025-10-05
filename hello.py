@@ -62,7 +62,7 @@ print("Push to the limit!")
 print("Coding = freedom.")
 print("Keep learning!")
 print("Focus and code.")
-
+print("Persistence pays.")
 
 
 
