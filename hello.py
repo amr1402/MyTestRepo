@@ -64,7 +64,7 @@ print("Keep learning!")
 print("Focus and code.")
 print("Persistence pays.")
 print("Coding muscle = 💪")
-
+print("You’re doing amazing!")
 
 
 
