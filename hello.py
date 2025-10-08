@@ -66,7 +66,7 @@ print("Persistence pays.")
 print("Coding muscle = 💪")
 print("You’re doing amazing!")
 print("Just one more line.")
-
+print("Day 65. Let’s go!")
 
 
 
