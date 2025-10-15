@@ -70,7 +70,7 @@ print("Day 65. Let’s go!")
 print("Make every day count.")
 print("Double digits month!")
 print("Consistency > motivation.")
-
+print("Celebrate small wins.")
 
 
 
