@@ -72,7 +72,7 @@ print("Double digits month!")
 print("Consistency > motivation.")
 print("Celebrate small wins.")
 print("Coding is creative.")
-
+print("1% better every day.")
 
 
 
