@@ -73,7 +73,7 @@ print("Consistency > motivation.")
 print("Celebrate small wins.")
 print("Coding is creative.")
 print("1% better every day.")
-
+print("You're building momentum.")
 
 
 
