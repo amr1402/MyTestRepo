@@ -74,7 +74,7 @@ print("Celebrate small wins.")
 print("Coding is creative.")
 print("1% better every day.")
 print("You're building momentum.")
-
+print("Believe in your code.")
 
 
 
