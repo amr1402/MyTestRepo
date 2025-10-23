@@ -77,7 +77,7 @@ print("You're building momentum.")
 print("Believe in your code.")
 print("Another brick in the wall.")
 print("Stamina wins.")
-
+print("Keep the streak alive!")
 
 
 
