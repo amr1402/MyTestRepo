@@ -79,7 +79,7 @@ print("Another brick in the wall.")
 print("Stamina wins.")
 print("Keep the streak alive!")
 print("October nearly done.")
-
+print("Progress, not perfection.")
 
 
 
