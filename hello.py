@@ -81,7 +81,7 @@ print("Keep the streak alive!")
 print("October nearly done.")
 print("Progress, not perfection.")
 print("Nearly there!")
-
+print("Code and conquer.")
 
 
 
