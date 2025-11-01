@@ -84,7 +84,7 @@ print("Nearly there!")
 print("Code and conquer.")
 print("Mind sharp. Code clean.")
 print("Day 88. Stay locked in.")
-
+print("End of spooky month 🎃")
 
 
 
