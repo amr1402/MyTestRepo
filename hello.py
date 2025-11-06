@@ -89,7 +89,7 @@ print("Don’t break the chain.")
 print("Commit and push.")
 print("Winners don’t quit.")
 print("Almost there...")
-
+print("Code warriors rise!")
 
 
 
