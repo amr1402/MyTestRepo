@@ -92,7 +92,7 @@ print("Almost there...")
 print("Code warriors rise!")
 print("Day 95. Beast mode.")
 print("Just five more!")
-
+print("Rise and code!")
 
 
 
