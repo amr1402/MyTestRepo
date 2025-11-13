@@ -95,7 +95,7 @@ print("Just five more!")
 print("Rise and code!")
 print("You made it this far.")
 print("Nearly there...")
-
+print("Victory is close.")
 
 
 
