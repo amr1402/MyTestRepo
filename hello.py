@@ -99,7 +99,7 @@ print("Victory is close.")
 print("110 updates deep!")
 print("Hold the line.")
 print("Final stretch!")
-
+print("Almost finish line.")
 
 
 
