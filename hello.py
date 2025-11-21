@@ -103,7 +103,7 @@ print("Almost finish line.")
 print("Don’t let up!")
 print("You’re unstoppable.")
 print("Today’s the 120th day! 🎉")
-
+print("Commit day 1 – starting the 120-day grind!")
 
 
 
