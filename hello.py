@@ -105,7 +105,7 @@ print("You’re unstoppable.")
 print("Today’s the 120th day! 🎉")
 print("Commit day 1 – starting the 120-day grind!")
 print("Commit day 2 – consistency begins.")
-
+print("Commit day 3 – small step, big impact.")
 
 
 
