@@ -109,7 +109,7 @@ print("Commit day 3 – small step, big impact.")
 print("Commit day 4 – steady progress!")
 print("Commit day 5 – writing code daily.")
 print("Commit day 6 – rhythm activated.")
-
+print("Commit day 7 – first week complete!")
 
 
 
