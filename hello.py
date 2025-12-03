@@ -115,7 +115,7 @@ print("Commit day 9 – almost double digits.")
 print("Commit day 10 – discipline mode.")
 print("Commit day 11 – new month, same mission.")
 print("Commit day 12 – December code begins.")
-
+print("Commit day 13 – stay focused.")
 
 
 
