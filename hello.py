@@ -132,7 +132,7 @@ print("Commit day 26 – staying sharp.")
 print("Commit day 27 – daily push.")
 print("Commit day 28 – almost month mark.")
 print("Commit day 29 – near 30 streak.")
-
+print("Commit day 30 – one month complete!")
 
 
 
