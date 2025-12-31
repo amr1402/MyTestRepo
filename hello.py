@@ -143,7 +143,7 @@ print("Commit day 37 – staying consistent.")
 print("Commit day 38 – end-of-year push.")
 print("Commit day 39 – nearly 40.")
 print("Commit day 40 – finishing 2025 strong.")
-
+print("Commit day 41 – last commit of the year!")
 
 
 
